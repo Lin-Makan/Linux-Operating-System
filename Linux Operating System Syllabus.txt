@@ -1,0 +1,339 @@
+
+
+   LINUX OPERATING SYSTEM SYLLABUS :
+-----------------------------------------------------------------------------------
+
+LINUX TUTORIAL :
+_________________
+
+1. Linux Tutorial
+2. What is Linux
+3. Advantages of Linux
+4. Linux History
+5. Linux Features
+6. Linux Bash
+7. Unix vs Linux
+8. Linux vs Windows
+9. Linux Distributions
+10. Linux Licensing
+11. Set Environment Variable
+12. Linux Set Command
+13. Linux export Command
+____________________________
+
+LINUX DIRECTORIES :
+______________________
+
+1. Linux Directories
+2. Linux Home Directory
+3. Linux pwd
+4. Linux cd
+5. Linux Absolute Relative
+6. Linux Path Completion
+7. Linux Is
+8. Linux mkdir
+9. Linux rmdir
+10. Rename Folder in Linux
+________________________________________
+
+LINUX COMMANDS :
+------------------------
+
+1. Linux Commands List
+2. Commands with Example
+_________________________________________
+
+LINUX USERS :
+---------------------------
+
+1. Linux Users
+2. Linux Create User
+3. Local su Commands
+4. Linux User Management
+5. User Password
+6. Local Groups
+7. Add User to Group
+8. Linux id Command
+___________________________________________
+
+LINUX FILES :
+--------------
+
+1. Linux Files
+2. Linux File System
+3. Linux Create File
+4. Linux File
+5. Linux Touch
+6. Linux rm
+7. Linux cp
+8. Linux mv
+9. Linux rename
+10. Linux install Command
+11. Linux read Command
+___________________________________________
+
+LINUX FILE CONTENTS :
+----------------------
+
+1. Linux File Contents
+2. Open File in Linux
+3. Linux Edit File
+4. Linux which command
+5. Linux head
+6. Linux tail
+7. Linux cat
+8. Linux tac
+9. Linux more
+10. Linux less
+11. Linux strings
+12. Linux Print
+___________________________________________
+
+LINUX PROCESS :
+----------------
+
+1. Kill Process Linux
+2. Linux terminating
+   * Linux kill
+   * Linux killall
+   * Linux pkill
+   * Linux xkill
+3. Nohup Command
+4. Linux at Command
+5. Linux exit Command
+___________________________________________
+
+LINUX FILE HIERARCHY :
+-----------------------
+
+1. Linux File Hierarchy
+2. Binary Directories
+3. Configuration Directories
+4. Data Directories
+5. Memory Directories
+6. Usr Directory
+7. var Directory
+8. Non-standard directories
+__________________________________________
+
+LINUX FILTERS :
+----------------
+
+1. Linux Filters
+2. Linux cat
+3. Linux cut
+4. Linux grep
+5. Linux comm
+6. Linux sed
+7. Linux tee
+8. Linux tr
+9. Linux uniq
+10. Linux wc
+11. Linux od
+12. Linux sort
+13. Linux gzip
+___________________________________________
+
+AWS COMMAND :
+--------------
+
+1. Linux AWK Command
+___________________________________________
+
+PROGRAMMING with LINUX :
+------------------------
+
+1. Linux make Command
+2. GCC Linux 
+_____________________________
+
+LINUX I/O REDIRECTION :
+-----------------------
+
+1. Linux I/O Redirection
+2. Linux Input Redirection
+3. Linux Output Redirection
+4. Linux Error Redirection
+_________________________________________
+
+LINUX UNIX TOOLS :
+-------------------
+
+1. Linux Unix Tools
+2. Linux Find 
+3. Linux Locate
+4. Linux Date 
+5. Linux Cal
+6. Linux Sleep
+7. Linux Time
+8. Linux zcat/zmore
+9. Linux bzip2 / bunzip2
+10. Linux bzcat / bzmore
+11. Linux df
+___________________________________________
+
+LINUX REGEX :
+----------------
+
+1. Linux expr command
+2. Linux RegEx
+3. Linux Grep RegEx
+4. Linux rename RegEx
+5. Linux Sed RegEx
+_________________________________________
+
+FILE SECURITY :
+-----------------
+
+1. Linux File Ownership
+2. Linux chgrp Command
+3. Linux File Permission
+4. Linux chmod Command
+5. Linux chown command
+6. Linux Advance Permission
+7. Linux File Links
+   * Linux Inodes 
+   * Linux Link Directories
+   * Linux Hard links
+   * Linux Soft links
+   * Linux Remove link
+________________________________________
+
+SHELL COMMANDS :
+-----------------
+
+1. Linux Shell Commands
+2. Linux Aliases
+3. Linux Arguments
+4. Linux Displaying Shell
+5. Linux Control Operators
+   * Semicolon
+   * Ampersand 
+   * Dollar Question Mark
+   * Double Ampersand
+   * Double Vertical Bar
+   * Combining && and ||
+   * Pound Sign
+   * ESC
+6. Linux File Globbing
+7. Linux Shell Embedding
+8. Linux Shell History 
+9. Linux history Command
+10. Linux History Commands
+11. Linux History Size
+12. Linux Bang Bang
+__________________________________________
+
+LINUX NETWORKING :
+-------------------
+
+1. Linux Networking
+2. Linux ifconfig
+3. Linux ip
+   * Linux telnet Command
+   * SSH Linux
+   * Linux mail Command
+4. Linux traceroute
+5. Linux tracepath
+6. Linux ping
+7. Linux netstat
+8. Linux ss
+9. Linux dig
+10. Linux nslookup
+11. Linux route
+12. Linux host
+13. Linux arp
+14. Linux iwconfig
+15. Linux hostname
+16. Linux curl & wget
+    * Linux curl Command
+17. Linux mtr
+18. Linux whois
+19. Linux ifplugstatus
+_______________________________________________
+
+LINUX EDITORS :
+---------------
+
+1. Linux Text Editors
+______________________________________________
+
+LINUX vi EDITOR :
+-----------------
+
+1. Vi Editor
+2. switch
+3. move
+4. jump
+5. delete 
+6. undo and repeat
+7. cut, copy, paste
+8. cut, copy, paste blocks
+9. Start and end
+10. Joining
+11. word
+12. Search
+13. Replace all
+14. Text Buffers
+15. Abbreviations 
+________________________________________________
+
+LINUX SYSTEM ADMIN :
+--------------------
+
+1. Linux Admin Commands
+2. Linux uptime
+3. Linux service
+4. Linux pmap
+5. Linux wget command
+6. Linux ftp or sftp
+7. Linux free Command
+8. Linux top
+9. Linux last
+10. Linux ps
+11. Linux shutdown
+12. Linux info
+13. Linux env
+14. Linux du
+15. Linux ipit
+16. Linux Nano Editor
+17. Linux shred
+18. Linux mount
+19. Linux route
+_________________________________________________
+
+LINUX MAN PAGES :
+-----------------
+
+1. Linux man
+2. Linux man -a
+3. Link man -aw
+4. Linux -f
+5. Linux man -k(apropos)
+6. Linux man whereis
+7. Whatis command in Linux
+________________________________________________
+
+ERROR CODES :
+-------------
+1. Linux Error Codes
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
