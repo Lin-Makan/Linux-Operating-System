@@ -1,0 +1,588 @@
+
+
+LINUX TUTORIAL :
+_________________
+
+1. Linux Tutorial
+2. What is Linux
+3. Advantages of Linux
+4. Linux History
+5. Linux Features
+6. Linux Bash
+7. Unix vs Linux
+8. Linux vs Windows
+9. Linux Distributions
+10. Linux Licensing
+11. Set Environment Variable
+12. Linux Set Command
+13. Linux export Command
+__________________________________________________________________
+
+1. <<<<<<<<<<<<<< LINUX TUTORIAL >>>>>>>>>>>>>>>
+   <<<<<<<<<<<<<<                >>>>>>>>>>>>>>>
+________________________________________________
+ Linux Tutorial                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Linux Tutorial 
+                                                                                        
+2) Definition of Linux Tutorial ?
+---------------------------------
+*
+ 
+3) What is Linux Tutorial About ?
+---------------------------------
+*
+*
+
+4) What does Linux Tutorial Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Tutorial :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Tutorial :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Tutorial :
+-------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+2. <<<<<<<< WHAT is LINUX ? >>>>>>>>>>
+________________________________________________
+ What is Linux ?                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Linux ?
+                                                                                        
+2) Definition of What is Linux ?
+--------------------------------
+*
+ 
+3) What is What is Linux About ?
+--------------------------------
+*
+*
+
+4) What do What is Linux Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of What is Linux :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What is Linux :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of What is Linux :
+------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+3. <<<<<<<<<< Advantages of Linux >>>>>>>>>>>
+________________________________________________
+ Advantages of Linux                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Advantages of Linux
+                                                                                        
+2) Definition of Advantages of Linux ?
+--------------------------------------
+*
+ 
+3) What is Advantages of Linux About ?
+--------------------------------------
+*
+*
+
+4) What does Advantages of Linux Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Advantages of Linux :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux:
+-----------------------------------
+*
+*
+*  
+
+7) Examples of Advantages of Linux :
+------------------------------------
+*
+* 
+
+___________________________________________________________________________________
+
+4. <<<<<<<<<<< Linux History >>>>>>>>>>
+
+________________________________________________
+ Linux History                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux History
+                                                                                        
+2) Definition of Linux History ?
+--------------------------------
+*
+ 
+3) What is Linux History About ?
+--------------------------------
+*
+*
+
+4) What does Linux History Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux History :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux History :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux History :
+------------------------------
+*
+*   
+____________________________________________________________________________________
+
+5. <<<<<<<< Linux Features >>>>>>>>>>>
+
+________________________________________________
+ Linux Features                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Features
+                                                                                        
+2) Definition of Linux Features ?
+---------------------------------
+*
+ 
+3) What is Linux Features About ?
+---------------------------------
+*
+*
+
+4) What does Linux Features Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Features :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Features :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Features :
+-------------------------------
+*
+*
+___________________________________________________________________________________
+
+
+6. <<<<<<<<<<<<< Linux Bash >>>>>>>>>>>>
+________________________________________________
+ Linux Bash                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Bash
+                                                                                        
+2) Definition of Linux Bash ?
+-----------------------------
+*
+ 
+3) What is Linux Bash About ?
+-----------------------------
+*
+*
+
+4) What does Linux Bash Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Bash :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Bash :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Bash :
+---------------------------
+*
+*
+_____________________________________________________________________________________
+
+7. <<<<<<<<<<< Unix vs Linux >>>>>>>>>>>>  
+________________________________________________
+ Unix vs Linux                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Unix vs Linux
+                                                                                        
+2) Definition of Unix vs Linux ?
+--------------------------------
+*
+ 
+3) What is Unix vs Linux About ?
+--------------------------------
+*
+*
+
+4) What does Unix vs Linux Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Unix vs Linux :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Unix vs Linux :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Unix vs Linux :
+------------------------------
+*
+*
+_____________________________________________________________________________________
+
+8. <<<<<<<<<<< Linux vs Windows >>>>>>>>>>>>
+________________________________________________
+ Linux vs Windows                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux vs Windows
+                                                                                        
+2) Definition of Linux vs Windows ?
+-----------------------------------
+*
+ 
+3) What is Linux vs Windows About ?
+-----------------------------------
+*
+*
+
+4) What does Linux vs Windows Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux vs Windows :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux vs Windows :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux vs Windows :
+---------------------------------
+*
+*
+____________________________________________________________________________________
+
+9. <<<<<<<<<< Linux Distributions >>>>>>>>>>>
+_____________________________________________________
+ Linux Distributions                                 |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Distributions
+                                                                                        
+2) Definition of Linux Distributions ?
+--------------------------------------
+*
+ 
+3) What is Linux Distributions About ?
+--------------------------------------
+*
+*
+
+4) What does Linux Distributions Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Distributions :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Distributions :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Distributions :
+------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+10. <<<<<<<<<<< Linux Licensing >>>>>>>>>>>>  
+________________________________________________
+ Linux Licensing                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Licensing
+                                                                                        
+2) Definition of Linux Licensing ?
+----------------------------------
+*
+ 
+3) What is Linux Licensing About ?
+----------------------------------
+*
+*
+
+4) What does Linux Licensing Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Licensing :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Licensing :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Licensing :
+--------------------------------
+*
+*
+____________________________________________________________________________________
+
+11. <<<<<<<<<< Set Environment Variable >>>>>>>>>>>
+________________________________________________
+ Set Environment Variable                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Set Environment Variable 
+                                                                                        
+2) Definition of Set Environment Variable ?
+-------------------------------------------
+*
+ 
+3) What is Set Environment Variable About ?
+-------------------------------------------
+*
+*
+
+4) What does Set Environment Variable Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Set Environment Variable :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Set Environment Variable :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Set Environment Variable :
+-----------------------------------------
+*
+*
+
+____________________________________________________________________________________
+
+12. <<<<<<<<<< Linux Set Command >>>>>>>>>>> 
+________________________________________________
+ Linux Set Command                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Set Command
+                                                                                        
+2) Definition of Linux Set Command ?
+------------------------------------
+*
+ 
+3) What is Linux Set Command About ?
+------------------------------------
+*
+*
+
+4) What does Linux Set Command Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Set Command :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Set Command :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Set Command :
+----------------------------------
+*
+*
+____________________________________________________________________________________
+
+13. <<<<<<<<<< Linux export Command >>>>>>>>>>
+________________________________________________
+ Linux export Command                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux export Command
+                                                                                        
+2) Definition of Linux export Command ?
+---------------------------------------
+*
+ 
+3) What is Linux export Command About ?
+---------------------------------------
+*
+*
+
+4) What does Linux export Command Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux export Command :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux export Command :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux export Command :
+-------------------------------------
+*
+*
+___________________________________________________________________________
