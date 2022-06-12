@@ -1,0 +1,413 @@
+
+
+AWS COMMAND :
+--------------
+
+1. Linux AWK Command
+___________________________________________
+
+PROGRAMMING with LINUX :
+------------------------
+
+1. Linux make Command
+2. GCC Linux 
+_____________________________
+
+LINUX I/O REDIRECTION :
+-----------------------
+
+1. Linux I/O Redirection
+2. Linux Input Redirection
+3. Linux Output Redirection
+4. Linux Error Redirection
+_____________________________________________________________________
+
+<<<<<<<<<< AWS COMMAND >>>>>>>>>>>  
+________________________________________________
+ AWS Command                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* AWS Command
+                                                                                        
+2) Definition of AWS Command ?
+------------------------------
+*
+ 
+3) What is AWS Command About ?
+------------------------------
+*
+*
+
+4) What does AWS Command Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of AWS Command :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of AWS Command :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of AWS Command :
+----------------------------
+*
+*
+___________________________________________________________________________
+
+1. <<<<<<<<<< LINUX AWK COMMAND >>>>>>>>>>>  
+________________________________________________
+ Linux AWK Command                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux AWK Command
+                                                                                        
+2) Definition of Linux AWK Command ?
+------------------------------------
+*
+ 
+3) What is Linux AWK Command About ?
+------------------------------------
+*
+*
+
+4) What does Linux AWK Command Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux AWK Command :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux AWK Command :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux AWK Command :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+_______________________________________________________________________________
+
+<<<<<<<<<<<<< PROGRAMMING with LINUX >>>>>>>>>>>>>>
+________________________________________________
+ Programming with Linux                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Programming with Linux 
+                                                                                        
+2) Definition of Programming with Linux ?
+-----------------------------------------
+*
+ 
+3) What is Programming with Linux About ?
+-----------------------------------------
+*
+*
+
+4) What does Programming with Linux Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Programming with Linux :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Programming with Linux :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Programming with Linux :
+---------------------------------------
+*
+*
+___________________________________________________________________________________
+
+1. <<<<<<<<<<<< Linux make Command >>>>>>>>>>>>>> 
+________________________________________________
+ Linux make Command                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux make Command 
+                                                                                        
+2) Definition of Linux make Command ?
+-------------------------------------
+*
+ 
+3) What is Linux make Command About ?
+-------------------------------------
+*
+*
+
+4) What does Linux make Command Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux make Command :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux make Command :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux make Command :
+-----------------------------------
+*
+*
+___________________________________________________________________________________
+
+2. <<<<<<<<<< GCC Linux >>>>>>>>>>>  
+________________________________________________
+ GCC Linux                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* GCC Linux
+                                                                                        
+2) Definition of GCC Linux ?
+----------------------------
+*
+ 
+3) What is GCC Linux About ?
+----------------------------
+*
+*
+
+4) What does GCC Linux Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of GCC Linux :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of GCC Linux :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of GCC Linux :
+--------------------------
+*
+*
+__________________________________________________________________________
+
+1. <<<<<<<<<<<<< LINUX I/O REDIRECTION >>>>>>>>>>>>>>
+________________________________________________
+ Linux I/O Redirection                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux I/O Redirection 
+                                                                                        
+2) Definition of Linux I/O Redirection ?
+----------------------------------------
+*
+ 
+3) What is Linux I/O Redirection About ?
+----------------------------------------
+*
+*
+
+4) What does Linux I/O Redirection Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux I/O Redirection :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux I/O Redirection :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux I/O Redirection :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+2. <<<<<<<<<<<< Linux Input Redirection >>>>>>>>>>>>>> 
+________________________________________________
+ Linux Input Redirection                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Input Redirection 
+                                                                                        
+2) Definition of Linux Input Redirection ?
+------------------------------------------
+*
+ 
+3) What is Linux Input Redirection About ?
+------------------------------------------
+*
+*
+
+4) What does Linux Input Redirection Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Input Redirection :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Input Redirection :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Input Redirection :
+----------------------------------------
+*
+*
+___________________________________________________________________________________
+
+3. <<<<<<<<<< Linux Output Redirection >>>>>>>>>>>  
+________________________________________________
+ Linux Output Redirection                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Output Redirection
+                                                                                        
+2) Definition of Linux Output Redirection ?
+-------------------------------------------
+*
+ 
+3) What is Linux Output Redirection About ?
+-------------------------------------------
+*
+*
+
+4) What does Linux Output Redirection Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Output Redirection :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Output Redirection :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Output Redirection :
+-----------------------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<< Linux Error Redirection >>>>>>>>>>
+________________________________________________
+ Linux Error Redirection                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Error Redirection
+                                                                                        
+2) Definition of Linux Error Redirection ?
+------------------------------------------
+*
+ 
+3) What is Linux Error Redirection About ?
+------------------------------------------
+*
+*
+
+4) What does Linux Error Redirection Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Error Redirection :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Error Redirection :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Error Redirection :
+----------------------------------------
+*
+*
+____________________________________________________________________________
+
+

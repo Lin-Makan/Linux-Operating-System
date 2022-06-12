@@ -1,0 +1,573 @@
+
+
+<<<<<<<< SHELL COMMANDS >>>>>>>>>>
+________________________________________________
+ Shell Commands                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Shell Commands
+                                                                                        
+2) Definition of Shell Commands ?
+---------------------------------
+*
+ 
+3) What is Shell Commands About ?
+---------------------------------
+*
+*
+
+4) What do Shell Commands Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Shell Commands :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Shell Commands :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Shell Commands :
+------------------------------- 
+*
+* 
+___________________________________________________________________________
+
+1. <<<<<<<< Linux Shell Commands >>>>>>>>>>
+________________________________________________
+ Linux Shell Commands                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Shell Commands
+                                                                                        
+2) Definition of Linux Shell Commands ?
+---------------------------------------
+*
+ 
+3) What is Linux Shell Commands About ?
+---------------------------------------
+*
+*
+
+4) What do Linux Shell Commands Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Shell Commands :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Shell Commands :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Shell Commands :
+-------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+2. <<<<<<<<<< Linux Aliases >>>>>>>>>>>
+________________________________________________
+ Linux Aliases                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Aliases
+                                                                                        
+2) Definition of Linux Aliases ?
+--------------------------------
+*
+ 
+3) What is Linux Aliases About ?
+--------------------------------
+*
+*
+
+4) What does Linux Aliases Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Aliases :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Aliases :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Aliases :
+------------------------------
+*
+* 
+
+___________________________________________________________________________________
+
+3. <<<<<<<<< Linux Arguments >>>>>>>>>
+________________________________________________
+ Linux Arguments                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Arguments
+                                                                                        
+2) Definition of Linux Arguments ?
+----------------------------------
+*
+ 
+3) What is Linux Arguments About ?
+----------------------------------
+*
+*
+
+4) What does Linux Arguments Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Arguments :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Arguments :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Arguments :
+--------------------------------
+*
+*   
+____________________________________________________________________________________
+
+4. <<<<<<<< Linux Displaying Shell >>>>>>>>
+________________________________________________
+ Linux Displaying Shell                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Displaying Shell
+                                                                                        
+2) Definition of Linux Displaying Shell ?
+-----------------------------------------
+*
+ 
+3) What is Linux Displaying Shell About ?
+-----------------------------------------
+*
+*
+
+4) What does Linux Displaying Shell Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Displaying Shell :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Displaying Shell :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Displaying Shell :
+---------------------------------------
+*
+*
+___________________________________________________________________________________
+
+5. <<<<<<<<<<<<< Linux Control Operators >>>>>>>>>>>>
+
+   * Semicolon
+   * Ampersand 
+   * Dollar Question Mark
+   * Double Ampersand
+   * Double Vertical Bar
+   * Combining && and ||
+   * Pound Sign
+   * ESC
+________________________________________________
+ Linux Control Operators                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Control Operators
+                                                                                        
+2) Definition of Linux Control Operators ?
+------------------------------------------
+*
+ 
+3) What is Linux Control Operators About ?
+------------------------------------------
+*
+*
+
+4) What does Linux Control Operators Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Control Operators :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Control Operators :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Control Operators :
+----------------------------------------
+*
+*
+______________________________________________________________________________
+
+6. <<<<<<<< Linux File Globbing >>>>>>>>>>
+________________________________________________
+ Linux File Globbing                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux File Globbing
+                                                                                        
+2) Definition of Linux File Globbing ?
+--------------------------------------
+*
+ 
+3) What is Linux File Globbing About ?
+--------------------------------------
+*
+*
+
+4) What do Linux File Globbing Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux File Globbing :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux File Globbing :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux File Globbing :
+------------------------------------
+*
+* 
+________________________________________________________________________________
+
+7. <<<<<<<<<< Linux Shell Embedding >>>>>>>>>>>
+________________________________________________
+ Linux Shell Embedding                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Shell Embedding
+                                                                                        
+2) Definition of Linux Shell Embedding ?
+----------------------------------------
+*
+ 
+3) What is Linux Shell Embedding About ?
+----------------------------------------
+*
+*
+
+4) What does Linux Shell Embedding Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Shell Embedding :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Shell Embedding :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Shell Embedding :
+--------------------------------------
+*
+* 
+___________________________________________________________________________________
+
+8. <<<<<<<<< Linux Shell History >>>>>>>>>>
+
+________________________________________________
+ Linux Shell History                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Shell History
+                                                                                        
+2) Definition of Linux Shell History ?
+--------------------------------------
+*
+ 
+3) What is Linux Shell History About ?
+--------------------------------------
+*
+*
+
+4) What does Linux Shell History Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Shell History :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Shell History :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Shell History :
+------------------------------------
+*
+*   
+____________________________________________________________________________________
+
+9. <<<<<<<< Linux history Command >>>>>>>>
+
+________________________________________________
+ Linux history Command                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux history Command
+                                                                                        
+2) Definition of Linux history Command ?
+----------------------------------------
+*
+ 
+3) What is Linux history Command About ?
+----------------------------------------
+*
+*
+
+4) What does Linux history Command Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux history Command :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux history Command :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux history Command :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+10. <<<<<<<<<<<<< Linux History Commands >>>>>>>>>>>>
+________________________________________________
+ Linux History Commands                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux History Commands
+                                                                                        
+2) Definition of Linux History Commands ?
+-----------------------------------------
+*
+ 
+3) What is Linux History Commands About ?
+-----------------------------------------
+*
+*
+
+4) What does Linux History Commands Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux History Commands :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux History Commands :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux History Commands :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+11. <<<<<<<< Linux History Size >>>>>>>>
+________________________________________________
+ Linux History Size                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux History Size
+                                                                                        
+2) Definition of Linux History Size ?
+-------------------------------------
+*
+ 
+3) What is Linux History Size About ?
+-------------------------------------
+*
+*
+
+4) What do Linux History Size Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux History Size :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux History Size :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux History Size :
+-----------------------------------
+*
+* 
+_____________________________________________________________________________
+
+12. <<<<<<<< Linux Bang Bang >>>>>>>>>>
+________________________________________________
+ Linux Bang Bang                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Bang Bang
+                                                                                        
+2) Definition of Linux Bang Bang ?
+----------------------------------
+*
+ 
+3) What is Linux Bang Bang About ?
+----------------------------------
+*
+*
+
+4) What do Linux Bang Bang Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Bang Bang :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Bang Bang :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Bang Bang :
+--------------------------------
+*
+* 
+____________________________________________________________________________

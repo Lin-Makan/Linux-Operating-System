@@ -1,0 +1,449 @@
+
+
+  LINUX DIRECTORIES :
+______________________
+
+1. Linux Directories
+2. Linux Home Directory
+3. Linux pwd
+4. Linux cd
+5. Linux Absolute Relative
+6. Linux Path Completion
+7. Linux Is
+8. Linux mkdir
+9. Linux rmdir
+10. Rename Folder in Linux
+__________________________________________________________________________
+
+1. <<<<<<<<<<<<< LINUX DIRECTORIES >>>>>>>>>>>>>>>
+   <<<<<<<<<<<<<                   >>>>>>>>>>>>>>>
+________________________________________________
+ Linux Directories                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Linux Directories 
+                                                                                        
+2) Definition of Linux Directories ?
+------------------------------------
+*
+ 
+3) What is Linux Directories About ?
+------------------------------------
+*
+*
+
+4) What does Linux Directories Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Directories :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Directories :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Directories :
+----------------------------------
+*
+*
+___________________________________________________________________________________
+
+2. <<<<<<<<<<<< Linux Home Directory >>>>>>>>>>>>>> 
+________________________________________________
+ Linux Home Directory                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Linux Home Directory 
+                                                                                        
+2) Definition of Linux Home Directory ?
+---------------------------------------
+*
+ 
+3) What is Linux Home Directory About ?
+---------------------------------------
+*
+*
+
+4) What does Linux Home Directory Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Home Directory :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Home Directory :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Home Directory :
+-------------------------------------
+*
+*
+___________________________________________________________________________________
+
+3. <<<<<<<<<< Linux pwd >>>>>>>>>>>  
+________________________________________________
+ Linux pwd                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux pwd
+                                                                                        
+2) Definition of Linux pwd ?
+----------------------------
+*
+ 
+3) What is Linux pwd About ?
+----------------------------
+*
+*
+
+4) What does Linux pwd Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Linux pwd :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux pwd :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Linux pwd :
+--------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<< Linux cd >>>>>>>>>>
+________________________________________________
+ Linux cd                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux cd
+                                                                                        
+2) Definition of Linux cd ?
+---------------------------
+*
+ 
+3) What is Linux cd About ?
+---------------------------
+*
+*
+
+4) What does Linux cd Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Linux cd :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux cd :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Linux cd :
+-------------------------
+*
+*
+_____________________________________________________________________________________
+
+5. <<<<<<<<<< Linux Absolute Relative >>>>>>>>>>
+________________________________________________
+ Linux Absolute Relative                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Absolute Relative 
+                                                                                        
+2) Definition of Linux Absolute Relative ?
+------------------------------------------
+*
+ 
+3) What is Linux Absolute Relative About ?
+------------------------------------------
+*
+*
+
+4) What does Linux Absolute Relative Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Absolute Relative :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Absolute Relative :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Absolute Relative :
+----------------------------------------
+*
+*
+
+___________________________________________________________________________________
+
+6. <<<<<<<<< Linux Path Completion >>>>>>>>>>>   
+________________________________________________
+ Linux Path Completion                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Path Completion
+                                                                                        
+2) Definition of Linux Path Completion ?
+----------------------------------------
+*
+ 
+3) What is Linux Path Completion About ?
+----------------------------------------
+*
+*
+
+4) What does Linux Path Completion Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Path Completion :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Path Completion :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Path Completion :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+7. <<<<<<<<< Linux Is >>>>>>>>>
+________________________________________________
+ Linux Is                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Is
+                                                                                        
+2) Definition of Linux Is ?
+---------------------------
+*
+ 
+3) What is Linux Is About ?
+---------------------------
+*
+*
+
+4) What does Linux Is Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Is :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Is :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Is :
+-------------------------
+*
+*
+___________________________________________________________________________________
+
+8. <<<<<<<<< Linux mkdir >>>>>>>>>
+________________________________________________
+ Linux mkdir                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Linux mkdir 
+                                                                                        
+2) Definition of Linux mkdir ?
+------------------------------
+*
+ 
+3) What is Linux mkdir About ?
+------------------------------
+*
+*
+
+4) What does Linux mkdir Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Linux mkdir :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux mkdir :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux mkdir :
+----------------------------
+*
+*
+
+__________________________________________________________________________________
+
+9. <<<<<<<< Linux rmdir >>>>>>>>>
+________________________________________________
+ Linux rmdir                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux rmdir
+                                                                                        
+2) Definition of Linux rmdir ?
+------------------------------
+*
+ 
+3) What is Linux rmdir About ?
+------------------------------
+*
+*
+
+4) What do Linux rmdir Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Linux rmdir :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux rmdir :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux rmdir :
+----------------------------
+*
+*
+_____________________________________________________________________________________
+
+10. <<<<<<<<< Rename Folder in Linux >>>>>>>>> 
+________________________________________________
+ Rename Folder in Linux                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Rename Folder in Linux
+                                                                                        
+2) Definition of Rename Folder in Linux ?
+-----------------------------------------
+*
+ 
+3) What is Rename Folder in Linux About ?
+-----------------------------------------
+*
+*
+
+4) What do Rename Folder in Linux Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Rename Folder in Linux :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Rename Folder in Linux :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Rename Folder in Linux :
+---------------------------------------
+*
+*
+______________________________________________________________________________

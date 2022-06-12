@@ -1,0 +1,356 @@
+
+
+<<<<<<<< FILE SECURITY >>>>>>>>>>
+________________________________________________
+ File Security                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* File Security
+                                                                                        
+2) Definition of File Security ?
+--------------------------------
+*
+ 
+3) What is File Security About ?
+--------------------------------
+*
+*
+
+4) What do File Security Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of File Security :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of File Security :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of File Security :
+------------------------------
+*
+* 
+
+___________________________________________________________________________
+
+1. <<<<<<<< Linux File Ownership >>>>>>>>>>
+________________________________________________
+ Linux File Ownership                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux File Ownership
+                                                                                        
+2) Definition of Linux File Ownership ?
+---------------------------------------
+*
+ 
+3) What is Linux File Ownership About ?
+---------------------------------------
+*
+*
+
+4) What do Linux File Ownership Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux File Ownership :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux File Ownership :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux File Ownership :
+-------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+2. <<<<<<<<<< Linux chgrp Command >>>>>>>>>>>
+________________________________________________
+ Linux chgrp Command                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux chgrp Command
+                                                                                        
+2) Definition of Linux chgrp Command ?
+--------------------------------------
+*
+ 
+3) What is Linux chgrp Command About ?
+--------------------------------------
+*
+*
+
+4) What does Linux chgrp Command Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux chgrp Command :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux chgrp Command :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux chgrp Command :
+------------------------------------
+*
+* 
+
+___________________________________________________________________________________
+
+3. <<<<<<<<<<< Linux File Permission >>>>>>>>>>
+
+________________________________________________
+ Linux File Permission                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux File Permission
+                                                                                        
+2) Definition of Linux File Permission ?
+----------------------------------------
+*
+ 
+3) What is Linux File Permission About ?
+----------------------------------------
+*
+*
+
+4) What does Linux File Permission Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux File Permission :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux File Permission :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux File Permission :
+--------------------------------------
+*
+*   
+____________________________________________________________________________________
+
+4. <<<<<<<< Linux chmod Command >>>>>>>>
+
+________________________________________________
+ Linux chmod Command                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux chmod Command
+                                                                                        
+2) Definition of Linux chmod Command ?
+--------------------------------------
+*
+ 
+3) What is Linux chmod Command About ?
+--------------------------------------
+*
+*
+
+4) What does Linux chmod Command Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux chmod Command :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux chmod Command :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux chmod Command :
+------------------------------------
+*
+*
+___________________________________________________________________________________
+
+5. <<<<<<<<<<<<< Linux chown command >>>>>>>>>>>>
+________________________________________________
+ Linux chown command                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux chown command
+                                                                                        
+2) Definition of Linux chown command ?
+--------------------------------------
+*
+ 
+3) What is Linux chown command About ?
+--------------------------------------
+*
+*
+
+4) What does Linux chown command Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux chown command :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux chown command :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux chown command :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+6. <<<<<<<< Linux Advance Permission >>>>>>>>>>
+________________________________________________
+ Linux Advance Permission                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Advance Permission
+                                                                                        
+2) Definition of Linux Advance Permission ?
+-------------------------------------------
+*
+ 
+3) What is Linux Advance Permission About ?
+-------------------------------------------
+*
+*
+
+4) What do Linux Advance Permission Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Advance Permission :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Advance Permission :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Advance Permission :
+-----------------------------------------
+*
+* 
+_____________________________________________________________________________
+
+7. <<<<<<<< Linux File Links >>>>>>>>>
+
+   * Linux Inodes 
+   * Linux Link Directories
+   * Linux Hard links
+   * Linux Soft links
+   * Linux Remove link
+________________________________________________
+ Linux File Links                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux File Links
+                                                                                        
+2) Definition of Linux File Links ?
+-----------------------------------
+*
+ 
+3) What is Linux File Links About ?
+-----------------------------------
+*
+*
+
+4) What do Linux File Links Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux File Links :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux File Links :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux File Links :
+---------------------------------
+*
+* 
+_____________________________________________________________________________

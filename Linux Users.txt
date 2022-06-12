@@ -1,0 +1,357 @@
+
+
+LINUX USERS :
+---------------------------
+
+1. Linux Users
+2. Linux Create User
+3. Local su Commands
+4. Linux User Management
+5. User Password
+6. Local Groups
+7. Add User to Group
+8. Linux id Command
+_________________________________________________________________________
+
+1. <<<<<<<<<< LINUX USERS : >>>>>>>>>>
+________________________________________________
+ Linux Users                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Users
+                                                                                        
+2) Definition of Linux Users ?
+------------------------------
+*
+ 
+3) What is Linux Users About ?
+------------------------------
+*
+*
+
+4) What do Linux Users Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Users :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Users :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Users :
+----------------------------
+*
+*
+___________________________________________________________________________________
+
+2. <<<<<<<< Linux Create User >>>>>>>>>
+________________________________________________
+  Linux Create User                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Linux Create User 
+                                                                                        
+2) Definition of Linux Create User ?
+------------------------------------
+*
+ 
+3) What is Linux Create User About ?
+------------------------------------
+*
+*
+
+4) What does Linux Create User Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Create User :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Create User :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Create User :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+3. <<<<<<<< Local su Commands >>>>>>>>>
+________________________________________________
+ Local su Commands                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Local su Commands 
+                                                                                        
+2) Definition of Local su Commands ?
+------------------------------------
+*
+ 
+3) What is Local su Commands About ?
+------------------------------------
+*
+*
+
+4) What does Local su Commands Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Local su Commands :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Local su Commands :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Local su Commands :
+----------------------------------
+*
+*
+______________________________________________________________________________
+
+4. <<<<<<<< Linux User Management >>>>>>>>>
+________________________________________________
+ Linux User Management                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux User Management                                                                                        
+2) Definition of Linux User Management ?
+----------------------------------------
+*
+ 
+3) What is Linux User Management About ?
+----------------------------------------
+*
+*
+
+4) What does Linux User Management Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux User Management :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux User Management :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux User Management :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+5. <<<<<<<<< User Password >>>>>>>>>
+________________________________________________
+ User Password                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* User Password
+                                                                                        
+2) Definition of User Password ?
+--------------------------------
+*
+ 
+3) What is User Password About ?
+--------------------------------
+*
+*
+
+4) What does User Password Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of User Password :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of User Password :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of User Password :
+------------------------------
+*
+*
+___________________________________________________________________________________
+
+6. <<<<<<<< Local Groups >>>>>>>>
+________________________________________________
+   Local Groups                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Local Groups 
+                                                                                        
+2) Definition of Local Groups ?
+-------------------------------
+*
+ 
+3) What is Local Groups About ?
+-------------------------------
+*
+*
+
+4) What does Local Groups Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Local Groups :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Local Groups :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Local Groups :
+-----------------------------
+*
+*
+____________________________________________________________________________________
+
+7. <<<<<<<< Add User to Group >>>>>>>>
+________________________________________________
+ Add User to Group                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Add User to Group 
+                                                                                        
+2) Definition of Add User to Group ?
+------------------------------------
+*
+ 
+3) What is Add User to Group About ?
+------------------------------------
+*
+*
+
+4) What does Add User to Group Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Add User to Group :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Add User to Group:
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Add User to Group :
+----------------------------------
+*
+*
+_____________________________________________________________________________________
+
+8.. <<<<<<<<<<<<<<<<< Linux id Command >>>>>>>>>>>>>>>>>
+__________________________________________________
+ Linux id Command                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Linux id Command 
+                                                                                        
+2) Definition of Linux id Command ?
+-----------------------------------
+*
+ 
+3) What is Linux id Command About ?
+-----------------------------------
+*
+*
+
+4) What does Linux id Command Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux id Command :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux id Command :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux id Command :
+---------------------------------
+*
+*
+___________________________________________________________________________

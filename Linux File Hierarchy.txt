@@ -1,0 +1,358 @@
+
+
+LINUX FILE HIERARCHY :
+-----------------------
+
+1. Linux File Hierarchy
+2. Binary Directories
+3. Configuration Directories
+4. Data Directories
+5. Memory Directories
+6. Usr Directory
+7. var Directory
+8. Non-standard directories
+_______________________________________________________________
+
+1. <<<<<<<<<< LINUX FILE HIERARCHY >>>>>>>>>>
+________________________________________________
+ Linux File Hierarchy                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux File Hierarchy 
+                                                                                        
+2) Definition of Linux File Hierarchy ?
+---------------------------------------
+*
+ 
+3) What is Linux File Hierarchy About ?
+---------------------------------------
+*
+*
+
+4) What does Linux File Hierarchy Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux File Hierarchy :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux File Hierarchy :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux File Hierarchy :
+-------------------------------------
+*
+*
+___________________________________________________________________________________
+
+2. <<<<<<<<< Binary Directories >>>>>>>>>>
+_____________________________________________________
+ Binary Directories                                  |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Binary Directories
+                                                                                        
+2) Definition of Binary Directories ?
+-------------------------------------
+*
+ 
+3) What is Binary Directories About ?
+-------------------------------------
+*
+*
+
+4) What does Binary Directories Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Binary Directories :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Binary Directories :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Binary Directories :
+-----------------------------------
+*
+*
+___________________________________________________________________________________
+
+3. <<<<<<<<<< Configuration Directories >>>>>>>>>>>>
+__________________________________________________
+ Configuration Directories                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Configuration Directories 
+                                                                                        
+2) Definition of Configuration Directories ?
+--------------------------------------------
+*
+ 
+3) What is Configuration Directories About ?
+--------------------------------------------
+*
+*
+
+4) What does Configuration Directories Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Configuration Directories :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Configuration Directories :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Configuration Directories :
+------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+4. <<<<<<<<<< Data Directories >>>>>>>>>>>>
+__________________________________________________
+ Data Directories                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Directories 
+                                                                                        
+2) Definition of Data Directories ?
+-----------------------------------
+*
+ 
+3) What is Data Directories About ?
+-----------------------------------
+*
+*
+
+4) What does Data Directories Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Directories :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Directories :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Directories :
+---------------------------------
+*
+*
+____________________________________________________________________________________
+
+5. <<<<<<<<< Memory Directories >>>>>>>>>
+__________________________________________________
+ Memory Directories                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Memory Directories
+                                                                                        
+2) Definition of Memory Directories ?
+-------------------------------------
+*
+ 
+3) What is Memory Directories About ?
+-------------------------------------
+*
+*
+
+4) What does Memory Directories Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Memory Directories :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Memory Directories :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Memory Directories :
+-----------------------------------------
+*
+*
+___________________________________________________________________________________
+
+6. <<<<<<<< Usr Directory >>>>>>>>
+________________________________________________
+  Usr Directory                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Usr Directory
+                                                                                        
+2) Definition of Usr Directory ?
+--------------------------------
+*
+ 
+3) What is Usr Directory About ?
+--------------------------------
+*
+*
+
+4) What does Usr Directory Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Usr Directory :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Usr Directory :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Usr Directory :
+------------------------------
+*
+*
+___________________________________________________________________________________
+
+7. <<<<<<<< var Directory >>>>>>>>
+________________________________________________
+ var Directory                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* var Directory
+                                                                                        
+2) Definition of var Directory ?
+--------------------------------
+*
+ 
+3) What is var Directory About ?
+--------------------------------
+*
+*
+
+4) What does var Directory Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of var Directory :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of var Directory :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of var Directory :
+------------------------------
+*
+*
+___________________________________________________________________________________
+
+8. <<<<<<<< Non-standard directories >>>>>>>>
+________________________________________________
+ Non-standard directories                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Non-standard directories
+                                                                                        
+2) Definition of Non-standard directories ?
+-------------------------------------------
+*
+ 
+3) What is Non-standard directories About ?
+-------------------------------------------
+*
+*
+
+4) What does Non-standard directories Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Non-standard directories :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Non-standard directories :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Non-standard directories :
+-----------------------------------------
+*
+*
+_____________________________________________________________________________

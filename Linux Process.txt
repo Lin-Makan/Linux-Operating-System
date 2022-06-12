@@ -1,0 +1,278 @@
+
+
+LINUX PROCESS :
+----------------
+
+1. Kill Process Linux
+2. Linux terminating
+   * Linux kill
+   * Linux killall
+   * Linux pkill
+   * Linux xkill
+3. Nohup Command
+4. Linux at Command
+5. Linux exit Command
+_________________________________________________________________________
+
+<<<<<<<<< LINUX PROCESS >>>>>>>>>>
+________________________________________________
+ Linux Process                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux Process 
+                                                                                        
+2) Definition of Linux Process ?
+--------------------------------
+*
+ 
+3) What is Linux Process About ?
+--------------------------------
+*
+*
+
+4) What does Linux Process Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux Process :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux Process :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux Process :
+------------------------------
+*
+*
+___________________________________________________________________________________
+
+1. <<<<<<<<< Kill Process Linux >>>>>>>>>>
+_____________________________________________________
+ Kill Process Linux                                  |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Kill Process Linux
+                                                                                        
+2) Definition of Kill Process Linux ?
+-------------------------------------
+*
+ 
+3) What is Kill Process Linux About ?
+-------------------------------------
+*
+*
+
+4) What does Kill Process Linux Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Kill Process Linux :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Kill Process Linux :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Kill Process Linux :
+-----------------------------------
+*
+*
+___________________________________________________________________________________
+
+2. <<<<<<<<<< Linux terminating >>>>>>>>>>>>
+
+   * Linux kill
+   * Linux killall
+   * Linux pkill
+   * Linux xkill
+__________________________________________________
+ Linux terminating                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux terminating 
+                                                                                        
+2) Definition of Linux terminating ?
+------------------------------------
+*
+ 
+3) What is Linux terminating About ?
+------------------------------------
+*
+*
+
+4) What does Linux terminating Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux terminating :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux terminating :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux terminating :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+
+3. <<<<<<<<<< Nohup Command >>>>>>>>>>>>
+__________________________________________________
+ Nohup Command                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Nohup Command 
+                                                                                        
+2) Definition of Nohup Command ?
+--------------------------------
+*
+ 
+3) What is Nohup Command About ?
+--------------------------------
+*
+*
+
+4) What does Nohup Command Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Nohup Command :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Nohup Command :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Nohup Command :
+------------------------------
+*
+*
+____________________________________________________________________________________
+
+4. <<<<<<<<< Linux at Command >>>>>>>>>
+__________________________________________________
+ Linux at Command                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux at Command
+                                                                                        
+2) Definition of Linux at Command ?
+-----------------------------------
+*
+ 
+3) What is Linux at Command About ?
+-----------------------------------
+*
+*
+
+4) What does Linux at Command Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux at Command :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux at Command :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux at Command :
+---------------------------------
+*
+*
+___________________________________________________________________________________
+
+5. <<<<<<<< Linux exit Command >>>>>>>>
+________________________________________________
+  Linux exit Command                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Linux exit Command
+                                                                                        
+2) Definition of Linux exit Command ?
+-------------------------------------
+*
+ 
+3) What is Linux exit Command About ?
+-------------------------------------
+*
+*
+
+4) What does Linux exit Command Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Linux exit Command :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Linux exit Command :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Linux exit Command :
+-----------------------------------
+*
+*
+_________________________________________________________________________
